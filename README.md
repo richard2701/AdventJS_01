@@ -1,7 +1,14 @@
 
 # Challenge: AdventJS_01
 
-JavaScript challenges practices
+JavaScript challenges practices and tests with Vitest
+
+## Install to run tests file
+`npm i`
+
+## Run Tests
+
+`npm run test`
 
 --------------------------------------------------------
 **Website:** [AdventJS 2021](https://2021.adventjs.dev/)
